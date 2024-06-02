@@ -1,3 +1,3 @@
 print("Hello, World!")
-print("May")
-print("Serly")
+print("May Serly Amina Putri")
+print("Sistem Informasi 2B")
